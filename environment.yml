@@ -1,0 +1,8 @@
+name: python_anaconda_project_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - requests=2.31.0
+  - pydantic=2.3.0
